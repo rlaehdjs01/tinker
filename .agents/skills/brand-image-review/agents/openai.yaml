@@ -1,0 +1,4 @@
+interface:
+  display_name: "브랜드 이미지 검수"
+  short_description: "큰 비교 사진과 수정 부위 표시로 전달하는 브랜드별 이미지 검수"
+  default_prompt: "$brand-image-review로 최신 브랜드 기준에 맞춰 검수하고 큰 비교 사진, 수정 부위 표시, 짧은 수정 지시로 정리해줘."
